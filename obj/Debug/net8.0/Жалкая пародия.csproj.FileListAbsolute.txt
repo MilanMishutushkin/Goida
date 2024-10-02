@@ -1,0 +1,17 @@
+D:\Кровать не для сна\Жалкая пародия\bin\Debug\net8.0\Жалкая пародия.exe
+D:\Кровать не для сна\Жалкая пародия\bin\Debug\net8.0\Жалкая пародия.deps.json
+D:\Кровать не для сна\Жалкая пародия\bin\Debug\net8.0\Жалкая пародия.runtimeconfig.json
+D:\Кровать не для сна\Жалкая пародия\bin\Debug\net8.0\Жалкая пародия.dll
+D:\Кровать не для сна\Жалкая пародия\bin\Debug\net8.0\Жалкая пародия.pdb
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\Жалкая пародия.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\Жалкая пародия.AssemblyInfoInputs.cache
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\Жалкая пародия.AssemblyInfo.cs
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\Жалкая пародия.csproj.CoreCompileInputs.cache
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\Жалкая пародия.dll
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\refint\Жалкая пародия.dll
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\Жалкая пародия.pdb
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\Жалкая пародия.genruntimeconfig.cache
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\ref\Жалкая пародия.dll
+D:\Кровать не для сна\Жалкая пародия\bin\Debug\net8.0\БиблиотекаЖалкойПародии.dll
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\Жалкая пародия.csproj.AssemblyReference.cache
+D:\Кровать не для сна\Жалкая пародия\obj\Debug\net8.0\______ _.3025A04A.Up2Date
